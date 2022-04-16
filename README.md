@@ -9,7 +9,9 @@ Tech publications by Jay R. Montojo
 
 [FULL OUTER JOINs](https://jaymontojo.medium.com/starting-sql-full-outer-joins-9325f9d39b59)
 
-[LEFT & RIGHT JOINs](https://jaymontojo.medium.com/starting-sql-intro-to-joins-763179ed870f)
+[LEFT & RIGHT JOINs](https://jaymontojo.medium.com/starting-sql-left-right-joins-763179ed870f)
+
+[ORDER BY ASC||DESC](https://jaymontojo.medium.com/starting-sql-sorting-records-with-order-by-a3ad8470dd8a)
 
 **Non-relational**
 
