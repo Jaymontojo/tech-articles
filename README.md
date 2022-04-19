@@ -21,6 +21,12 @@ Tech publications by Jay R. Montojo
 
 # Algorithms
 
+# Code Tutorials
+
+**CRUD GRAPHQL API**
+
+[Part I](https://jaymontojo.medium.com/code-tutorial-crud-graphql-api-part-i-a27b448915fb)
+
 # Misc.
 
 [Dealing with Imposter Syndrome](https://jaymontojo.medium.com/c%CC%B6o%CC%B6p%CC%B6i%CC%B6n%CC%B6g%CC%B6-%CC%B6w%CC%B6i%CC%B6t%CC%B6h-conquering-imposter-syndrome-13e48fae77a7)
