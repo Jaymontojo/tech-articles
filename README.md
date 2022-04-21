@@ -26,6 +26,7 @@ Tech publications by Jay R. Montojo
 **CRUD GRAPHQL API**
 
 [Part I](https://jaymontojo.medium.com/code-tutorial-crud-graphql-api-part-i-a27b448915fb)
+[Part II](https://jaymontojo.medium.com/code-tutorial-crud-graphql-api-part-i-a27b448915fb)
 
 # Misc.
 
