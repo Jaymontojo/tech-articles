@@ -15,6 +15,8 @@ Tech publications by Jay R. Montojo
 
 [GROUP BY](https://jaymontojo.medium.com/starting-sql-sorting-records-with-order-by-a3ad8470dd8a)
 
+[Aggregate Functions](https://jaymontojo.medium.com/starting-sql-sorting-records-with-order-by-a3ad8470dd8a)
+
 **Non-relational**
 
 # Backend
